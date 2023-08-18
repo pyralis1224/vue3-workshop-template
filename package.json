@@ -1,6 +1,6 @@
 {
-  "name": "vue3-workshop-template",
-  "version": "0.0.0",
+  "name": "vue3-workshop-auto-input-table",
+  "version": "1.0.0",
   "description": "",
   "scripts": {
     "dev": "vite",
